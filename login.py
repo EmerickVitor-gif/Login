@@ -27,6 +27,6 @@ email.pack(padx=10, pady=10)
 senha.pack(padx=10, pady=10)
 botao.pack(padx=10, pady=10)
 
-# Loop principal da jnela
+# Loop principal da janela
 
 janela.mainloop()
